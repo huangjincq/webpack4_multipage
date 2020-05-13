@@ -11,5 +11,5 @@ export default {
   hot: true, // 开启热更新
   before (app, server) {
     server._watch(path.resolve(appPath, "pages/**/*.html"));
-  }
+  },
 }
