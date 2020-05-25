@@ -7,7 +7,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "huangjin-cli-service serve",
-    "build": "huangjin-cli-service build"
+    "build": "huangjin-cli-service build",
+    "dist:serve": "huangjin-cli-service distServe"
   },
   "devDependencies": {
     "huangjin-cli-service": "^1.0.1"
