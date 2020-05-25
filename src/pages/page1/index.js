@@ -3,6 +3,6 @@
 
 import '@/assets/styles/common.less'
 import './index.less'
-import 'reset.css'
+import 'normalize.css'
 
 console.log('page1')
