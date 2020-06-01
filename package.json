@@ -6,12 +6,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "huangjin-cli-service serve",
-    "build": "huangjin-cli-service build",
-    "dist:serve": "huangjin-cli-service distServe"
+    "dev": "cli-service serve",
+    "build": "cli-service build",
+    "dist:serve": "cli-service distServe"
   },
   "devDependencies": {
-    "huangjin-cli-service": "^1.0.1"
+    "@inke-design/cli-service": "^1.0.1"
   },
   "dependencies": {
     "axios": "^0.19.2",
